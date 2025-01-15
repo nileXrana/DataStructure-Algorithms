@@ -1,2 +1,2 @@
 # DataStructure-Algorithms
-It's all about critical thinking and logic :
+It's all about critical thinking and logic : 💻
