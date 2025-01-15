@@ -1,2 +1,2 @@
 # DataStructure-Algorithms
-This contains all my code while learning and understanding different concepts of Data Structures and Algorithms.
+It's all about critical thinking and logic :
