@@ -19,5 +19,3 @@ Missing algorithms/data structures.
 
 Better documentation/comments.
 
-## 📜 License
-This project is open-source under the MIT License.
