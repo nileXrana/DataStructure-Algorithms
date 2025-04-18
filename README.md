@@ -8,16 +8,9 @@ Welcome to my DSA repository! This collection contains implementations of **data
 - **Leetcode/GeeksforGeeks Solutions**: Solved problems with optimizations and explanations. 
 
 ## Folder Structure
-DSA/
-├── Data-Structures/
-│   ├── Linked-Lists/
-│   ├── Trees/
-│   └── ...
-│   ├── Sorting/
-│   ├── DP/
-│   └── ...
+DataStructure-Algorithms - Arrays, String, Linked-Lists, Trees, Sorting, DP, Graph, .....
 
-🤝 Contributions
+## 🤝 Contributions
 Open to suggestions and optimizations! Raise an Issue or submit a PR with:
 
 More efficient solutions.
@@ -26,5 +19,5 @@ Missing algorithms/data structures.
 
 Better documentation/comments.
 
-📜 License
+## 📜 License
 This project is open-source under the MIT License.
