@@ -20,5 +20,5 @@ Missing algorithms/data structures.
 Better documentation/comments.
 
 ## My LeetCode
-leetcode.com/u/nileXrana/
+https://leetcode.com/u/nilexrana/
 
